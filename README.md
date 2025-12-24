@@ -5,7 +5,7 @@
 **Seed:** 13  
 
 ## Presentation
-[View Presentation Slides](https://github.com/thesadiq7/AI/commit/f8fc377f7680a498a684529552a7880a10f4e5d3)
+[View Presentation Slides](https://docs.google.com/presentation/d/14VjKdVr7wUNhOyx9huhCaiKowSHUpAT2/edit?usp=sharing&ouid=116633181489768191338&rtpof=true&sd=true)
 
 ## Dataset
 - **Name:** CIFAR-10 (Subset)
